@@ -13,3 +13,4 @@ features and forms a strong classifier.
 and focus on potential faces.
 
 This approach makes face detection highly efficient, even on low-powered devices.
+
